@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','WenQuanYi Zen Hei',sans-serif">
+<rect width="1000" height="560" rx="14" fill="#fcfcfb"/>
+<text x="70" y="40" font-size="22" font-weight="600" fill="#0b0b0b">四个维度离 B2 有多远</text>
+<text x="70" y="66" font-size="13.5" fill="#52514e">每条线是该维度下各指标进度的平均。6 月 = 起点 0,B2 目标 = 100,B1 线取中点 50;负数表示比 6 月还差。5 月仅 4 个上课日,虚线段仅供参考。</text>
+<line x1="70" y1="88" x2="92" y2="88" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round"/>
+<text x="98" y="92.5" font-size="13" fill="#0b0b0b">流利度</text>
+<line x1="166" y1="88" x2="188" y2="88" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round"/>
+<text x="194" y="92.5" font-size="13" fill="#0b0b0b">准确性</text>
+<line x1="262" y1="88" x2="284" y2="88" stroke="#1baf7a" stroke-width="2.5" stroke-linecap="round"/>
+<text x="290" y="92.5" font-size="13" fill="#0b0b0b">复杂度</text>
+<line x1="358" y1="88" x2="380" y2="88" stroke="#4a3aa7" stroke-width="2.5" stroke-linecap="round"/>
+<text x="386" y="92.5" font-size="13" fill="#0b0b0b">语篇衔接</text>
+<line x1="468" y1="88" x2="490" y2="88" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<text x="496" y="92.5" font-size="13" fill="#0b0b0b">总体</text>
+<line x1="550" y1="88" x2="572" y2="88" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="578" y="92.5" font-size="13" fill="#0b0b0b">B1 / B2 参考线</text>
+<line x1="70" y1="468.3" x2="810" y2="468.3" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="472.8" font-size="12" fill="#7a7975" text-anchor="end">-50</text>
+<line x1="70" y1="414.0" x2="810" y2="414.0" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="418.5" font-size="12" fill="#7a7975" text-anchor="end">-25</text>
+<line x1="70" y1="359.7" x2="810" y2="359.7" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="364.2" font-size="12" fill="#7a7975" text-anchor="end">0</text>
+<line x1="70" y1="305.4" x2="810" y2="305.4" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="309.9" font-size="12" fill="#7a7975" text-anchor="end">25</text>
+<line x1="70" y1="251.1" x2="810" y2="251.1" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="255.6" font-size="12" fill="#7a7975" text-anchor="end">50</text>
+<line x1="70" y1="196.9" x2="810" y2="196.9" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="201.4" font-size="12" fill="#7a7975" text-anchor="end">75</text>
+<line x1="70" y1="142.6" x2="810" y2="142.6" stroke="#e9e8e3" stroke-width="1"/>
+<text x="60" y="147.1" font-size="12" fill="#7a7975" text-anchor="end">100</text>
+<line x1="70" y1="359.7" x2="810" y2="359.7" stroke="#c9c8c2" stroke-width="1.5"/>
+<text x="76" y="352.7" font-size="12.5" font-weight="600" fill="#7a7975">6 月起点 · 0</text>
+<line x1="70" y1="251.1" x2="810" y2="251.1" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="804" y="244.1" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">B1 线 · 50</text>
+<line x1="70" y1="142.6" x2="810" y2="142.6" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="804" y="135.6" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">B2 目标 · 100</text>
+<text x="70.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">5月</text>
+<text x="255.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">6月</text>
+<text x="440.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">7月</text>
+<text x="625.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">8月</text>
+<text x="810.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">9月</text>
+<line x1="70.0" y1="379.3" x2="255.0" y2="359.7" stroke="#2a78d6" stroke-width="2.5" stroke-dasharray="4 5" stroke-linecap="round" opacity="0.7"/>
+<path d="M255.0,359.7 L440.0,379.3 L625.0,348.9 L810.0,279.4" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="379.3" r="5.5" fill="#fcfcfb"/><circle cx="70.0" cy="379.3" r="3.5" fill="#2a78d6"/>
+<circle cx="255.0" cy="359.7" r="6.5" fill="#fcfcfb"/><circle cx="255.0" cy="359.7" r="4.5" fill="#2a78d6"/>
+<circle cx="440.0" cy="379.3" r="6.5" fill="#fcfcfb"/><circle cx="440.0" cy="379.3" r="4.5" fill="#2a78d6"/>
+<circle cx="625.0" cy="348.9" r="6.5" fill="#fcfcfb"/><circle cx="625.0" cy="348.9" r="4.5" fill="#2a78d6"/>
+<circle cx="810.0" cy="279.4" r="6.5" fill="#fcfcfb"/><circle cx="810.0" cy="279.4" r="4.5" fill="#2a78d6"/>
+<line x1="70.0" y1="338.0" x2="255.0" y2="316.3" stroke="#eb6834" stroke-width="2.5" stroke-dasharray="4 5" stroke-linecap="round" opacity="0.7"/>
+<path d="M255.0,316.3 L440.0,255.5 L625.0,340.2 L810.0,320.6" fill="none" stroke="#eb6834" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="338.0" r="5.5" fill="#fcfcfb"/><circle cx="70.0" cy="338.0" r="3.5" fill="#eb6834"/>
+<circle cx="255.0" cy="316.3" r="6.5" fill="#fcfcfb"/><circle cx="255.0" cy="316.3" r="4.5" fill="#eb6834"/>
+<circle cx="440.0" cy="255.5" r="6.5" fill="#fcfcfb"/><circle cx="440.0" cy="255.5" r="4.5" fill="#eb6834"/>
+<circle cx="625.0" cy="340.2" r="6.5" fill="#fcfcfb"/><circle cx="625.0" cy="340.2" r="4.5" fill="#eb6834"/>
+<circle cx="810.0" cy="320.6" r="6.5" fill="#fcfcfb"/><circle cx="810.0" cy="320.6" r="4.5" fill="#eb6834"/>
+<line x1="70.0" y1="372.7" x2="255.0" y2="316.3" stroke="#1baf7a" stroke-width="2.5" stroke-dasharray="4 5" stroke-linecap="round" opacity="0.7"/>
+<path d="M255.0,316.3 L440.0,370.6 L625.0,357.5 L810.0,379.3" fill="none" stroke="#1baf7a" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="372.7" r="5.5" fill="#fcfcfb"/><circle cx="70.0" cy="372.7" r="3.5" fill="#1baf7a"/>
+<circle cx="255.0" cy="316.3" r="6.5" fill="#fcfcfb"/><circle cx="255.0" cy="316.3" r="4.5" fill="#1baf7a"/>
+<circle cx="440.0" cy="370.6" r="6.5" fill="#fcfcfb"/><circle cx="440.0" cy="370.6" r="4.5" fill="#1baf7a"/>
+<circle cx="625.0" cy="357.5" r="6.5" fill="#fcfcfb"/><circle cx="625.0" cy="357.5" r="4.5" fill="#1baf7a"/>
+<circle cx="810.0" cy="379.3" r="6.5" fill="#fcfcfb"/><circle cx="810.0" cy="379.3" r="4.5" fill="#1baf7a"/>
+<line x1="70.0" y1="251.1" x2="255.0" y2="359.7" stroke="#4a3aa7" stroke-width="2.5" stroke-dasharray="4 5" stroke-linecap="round" opacity="0.7"/>
+<path d="M255.0,359.7 L440.0,409.7 L625.0,433.5 L810.0,429.2" fill="none" stroke="#4a3aa7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="251.1" r="5.5" fill="#fcfcfb"/><circle cx="70.0" cy="251.1" r="3.5" fill="#4a3aa7"/>
+<circle cx="255.0" cy="359.7" r="6.5" fill="#fcfcfb"/><circle cx="255.0" cy="359.7" r="4.5" fill="#4a3aa7"/>
+<circle cx="440.0" cy="409.7" r="6.5" fill="#fcfcfb"/><circle cx="440.0" cy="409.7" r="4.5" fill="#4a3aa7"/>
+<circle cx="625.0" cy="433.5" r="6.5" fill="#fcfcfb"/><circle cx="625.0" cy="433.5" r="4.5" fill="#4a3aa7"/>
+<circle cx="810.0" cy="429.2" r="6.5" fill="#fcfcfb"/><circle cx="810.0" cy="429.2" r="4.5" fill="#4a3aa7"/>
+<line x1="70.0" y1="335.8" x2="255.0" y2="338.0" stroke="#52514e" stroke-width="3" stroke-dasharray="4 5" stroke-linecap="round" opacity="0.7"/>
+<path d="M255.0,338.0 L440.0,353.2 L625.0,370.6 L810.0,351.0" fill="none" stroke="#52514e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="335.8" r="5.5" fill="#fcfcfb"/><circle cx="70.0" cy="335.8" r="3.5" fill="#52514e"/>
+<circle cx="255.0" cy="338.0" r="6.5" fill="#fcfcfb"/><circle cx="255.0" cy="338.0" r="4.5" fill="#52514e"/>
+<circle cx="440.0" cy="353.2" r="6.5" fill="#fcfcfb"/><circle cx="440.0" cy="353.2" r="4.5" fill="#52514e"/>
+<circle cx="625.0" cy="370.6" r="6.5" fill="#fcfcfb"/><circle cx="625.0" cy="370.6" r="4.5" fill="#52514e"/>
+<circle cx="810.0" cy="351.0" r="6.5" fill="#fcfcfb"/><circle cx="810.0" cy="351.0" r="4.5" fill="#52514e"/>
+<rect x="822" y="272.4" width="4" height="14" rx="2" fill="#2a78d6"/>
+<text x="832" y="283.9" font-size="13.5" fill="#0b0b0b"><tspan font-weight="600">流利度</tspan><tspan fill="#52514e" dx="6">+37</tspan></text>
+<rect x="822" y="313.6" width="4" height="14" rx="2" fill="#eb6834"/>
+<text x="832" y="325.1" font-size="13.5" fill="#0b0b0b"><tspan font-weight="600">准确性</tspan><tspan fill="#52514e" dx="6">+18</tspan></text>
+<rect x="822" y="344.0" width="4" height="14" rx="2" fill="#52514e"/>
+<text x="832" y="355.5" font-size="13.5" fill="#0b0b0b"><tspan font-weight="600">总体</tspan><tspan fill="#52514e" dx="6">+4</tspan></text>
+<rect x="822" y="372.3" width="4" height="14" rx="2" fill="#1baf7a"/>
+<text x="832" y="383.8" font-size="13.5" fill="#0b0b0b"><tspan font-weight="600">复杂度</tspan><tspan fill="#52514e" dx="6">-9</tspan></text>
+<rect x="822" y="422.2" width="4" height="14" rx="2" fill="#4a3aa7"/>
+<text x="832" y="433.7" font-size="13.5" fill="#0b0b0b"><tspan font-weight="600">语篇衔接</tspan><tspan fill="#52514e" dx="6">-32</tspan></text>
+<text x="70" y="538" font-size="11.5" fill="#9a9993">数据来源:scripts/speech_trends.py,直接从课堂转写计算 · 2026-09-19 体检</text>
+</svg>
