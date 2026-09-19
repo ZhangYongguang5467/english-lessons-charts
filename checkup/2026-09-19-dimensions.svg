@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','WenQuanYi Zen Hei',sans-serif">
 <rect width="1000" height="560" rx="14" fill="#fcfcfb"/>
-<text x="70" y="40" font-size="22" font-weight="600" fill="#0b0b0b">四个维度离 B2 有多远</text>
-<text x="70" y="66" font-size="13.5" fill="#52514e">每条线是该维度下各指标进度的平均。6 月 = 起点 0,B2 目标 = 100,B1 线取中点 50;负数表示比 6 月还差。5 月仅 4 个上课日,虚线段仅供参考。</text>
+<text x="70" y="40" font-size="22" font-weight="600" fill="#0b0b0b">从 B1 到 B2:四个维度走了多远</text>
+<text x="70" y="66" font-size="13.5" fill="#52514e">每条线是该维度下各指标进度的平均。0 = 6 月的 B1 水平(起点),100 = B2 目标;负数表示比 6 月还退了一点。5 月仅 4 个上课日,虚线段仅供参考。</text>
 <line x1="70" y1="88" x2="92" y2="88" stroke="#2a78d6" stroke-width="2.5" stroke-linecap="round"/>
 <text x="98" y="92.5" font-size="13" fill="#0b0b0b">流利度</text>
 <line x1="166" y1="88" x2="188" y2="88" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round"/>
@@ -13,7 +13,7 @@
 <line x1="468" y1="88" x2="490" y2="88" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
 <text x="496" y="92.5" font-size="13" fill="#0b0b0b">总体</text>
 <line x1="550" y1="88" x2="572" y2="88" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="5 4"/>
-<text x="578" y="92.5" font-size="13" fill="#0b0b0b">B1 / B2 参考线</text>
+<text x="578" y="92.5" font-size="13" fill="#0b0b0b">B2 目标 / 半程线</text>
 <line x1="70" y1="468.3" x2="810" y2="468.3" stroke="#e9e8e3" stroke-width="1"/>
 <text x="60" y="472.8" font-size="12" fill="#7a7975" text-anchor="end">-50</text>
 <line x1="70" y1="414.0" x2="810" y2="414.0" stroke="#e9e8e3" stroke-width="1"/>
@@ -29,9 +29,9 @@
 <line x1="70" y1="142.6" x2="810" y2="142.6" stroke="#e9e8e3" stroke-width="1"/>
 <text x="60" y="147.1" font-size="12" fill="#7a7975" text-anchor="end">100</text>
 <line x1="70" y1="359.7" x2="810" y2="359.7" stroke="#c9c8c2" stroke-width="1.5"/>
-<text x="76" y="352.7" font-size="12.5" font-weight="600" fill="#7a7975">6 月起点 · 0</text>
+<text x="76" y="352.7" font-size="12.5" font-weight="600" fill="#7a7975">B1 起点(6 月)· 0</text>
 <line x1="70" y1="251.1" x2="810" y2="251.1" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="6 5"/>
-<text x="804" y="244.1" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">B1 线 · 50</text>
+<text x="804" y="244.1" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">半程 · 50</text>
 <line x1="70" y1="142.6" x2="810" y2="142.6" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="6 5"/>
 <text x="804" y="135.6" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">B2 目标 · 100</text>
 <text x="70.0" y="518" font-size="13" fill="#52514e" text-anchor="middle">5月</text>
