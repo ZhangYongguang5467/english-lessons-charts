@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="840" viewBox="0 0 1000 840" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','WenQuanYi Zen Hei',sans-serif">
+<rect width="1000" height="840" rx="14" fill="#fcfcfb"/>
+<text x="60" y="42" font-size="22" font-weight="600" fill="#0b0b0b">我在 B1 → B2 的哪个阶段</text>
+<text x="60" y="68" font-size="13.5" fill="#52514e">维度 = CEFR 口语评分表的五项(Range / Accuracy / Fluency / Interaction / Coherence)。</text>
+<text x="60" y="88" font-size="13.5" fill="#52514e">条长 = 最近一周(W38,4 个上课日)各指标达到 B2 门槛的比例(100 = 到达 B2 线);右侧 = 已达成的 B2 标准条数。</text>
+<text x="60" y="108" font-size="13.5" fill="#52514e">阶段规则:B2 标准全部达成 = B2;达成一半以上 = B1+;不足一半 = B1。门槛来自 scripts/speech_trends.py。</text>
+<line x1="250.0" y1="142" x2="250.0" y2="446" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="250.0" y="134" font-size="12" fill="#7a7975" text-anchor="middle">0</text>
+<line x1="380.0" y1="142" x2="380.0" y2="446" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="380.0" y="134" font-size="12" fill="#7a7975" text-anchor="middle">25</text>
+<line x1="510.0" y1="142" x2="510.0" y2="446" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="510.0" y="134" font-size="12" fill="#7a7975" text-anchor="middle">50</text>
+<line x1="640.0" y1="142" x2="640.0" y2="446" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="640.0" y="134" font-size="12" fill="#7a7975" text-anchor="middle">75</text>
+<line x1="770.0" y1="142" x2="770.0" y2="446" stroke="#9a9993" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="770.0" y="134" font-size="12" fill="#7a7975" text-anchor="middle">100  B2 线</text>
+<text x="254.0" y="462" font-size="12" fill="#7a7975">← B1</text>
+<text x="510.0" y="462" font-size="12" fill="#7a7975" text-anchor="middle">B1+(一半以上标准达成)</text>
+<text x="766.0" y="462" font-size="12" fill="#7a7975" text-anchor="end">B2 →</text>
+<text x="236" y="172" font-size="14.5" font-weight="600" fill="#0b0b0b" text-anchor="end">语言范围</text>
+<text x="236" y="190" font-size="11.5" fill="#7a7975" text-anchor="end">Range</text>
+<rect x="250.0" y="160" width="520" height="22" rx="4" fill="#efeeea"/>
+<rect x="250.0" y="160" width="286.0" height="22" rx="4" fill="#2a78d6"/>
+<text x="544.0" y="176" font-size="13.5" font-weight="600" fill="#0b0b0b">55%</text>
+<text x="788" y="171" font-size="13.5" font-weight="600" fill="#0b0b0b">B1</text>
+<text x="788" y="188" font-size="12" fill="#52514e">B2 标准 1/4 条</text>
+<text x="236" y="234" font-size="14.5" font-weight="600" fill="#0b0b0b" text-anchor="end">准确性</text>
+<text x="236" y="252" font-size="11.5" fill="#7a7975" text-anchor="end">Accuracy</text>
+<rect x="250.0" y="222" width="520" height="22" rx="4" fill="#efeeea"/>
+<rect x="250.0" y="222" width="228.8" height="22" rx="4" fill="#eb6834"/>
+<text x="486.8" y="238" font-size="13.5" font-weight="600" fill="#0b0b0b">44%</text>
+<text x="788" y="233" font-size="13.5" font-weight="600" fill="#0b0b0b">B1</text>
+<text x="788" y="250" font-size="12" fill="#52514e">B2 标准 0/5 条</text>
+<text x="236" y="296" font-size="14.5" font-weight="600" fill="#0b0b0b" text-anchor="end">流利度</text>
+<text x="236" y="314" font-size="11.5" fill="#7a7975" text-anchor="end">Fluency</text>
+<rect x="250.0" y="284" width="520" height="22" rx="4" fill="#efeeea"/>
+<rect x="250.0" y="284" width="260.0" height="22" rx="4" fill="#1baf7a"/>
+<text x="518.0" y="300" font-size="13.5" font-weight="600" fill="#0b0b0b">50%</text>
+<text x="788" y="295" font-size="13.5" font-weight="600" fill="#0b0b0b">B1</text>
+<text x="788" y="312" font-size="12" fill="#52514e">B2 标准 0/3 条</text>
+<text x="236" y="358" font-size="14.5" font-weight="600" fill="#0b0b0b" text-anchor="end">互动</text>
+<text x="236" y="376" font-size="11.5" fill="#7a7975" text-anchor="end">Interaction</text>
+<rect x="250.0" y="346" width="520" height="22" rx="4" fill="#efeeea"/>
+<rect x="250.0" y="346" width="353.6" height="22" rx="4" fill="#eda100"/>
+<text x="611.6" y="362" font-size="13.5" font-weight="600" fill="#0b0b0b">68%</text>
+<text x="788" y="357" font-size="13.5" font-weight="600" fill="#0b0b0b">B1</text>
+<text x="788" y="374" font-size="12" fill="#52514e">B2 标准 0/2 条</text>
+<text x="236" y="420" font-size="14.5" font-weight="600" fill="#0b0b0b" text-anchor="end">连贯</text>
+<text x="236" y="438" font-size="11.5" fill="#7a7975" text-anchor="end">Coherence</text>
+<rect x="250.0" y="408" width="520" height="22" rx="4" fill="#efeeea"/>
+<rect x="250.0" y="408" width="171.6" height="22" rx="4" fill="#4a3aa7"/>
+<text x="429.6" y="424" font-size="13.5" font-weight="600" fill="#0b0b0b">33%</text>
+<text x="788" y="419" font-size="13.5" font-weight="600" fill="#0b0b0b">B1</text>
+<text x="788" y="436" font-size="12" fill="#52514e">B2 标准 0/3 条</text>
+<text x="60" y="512" font-size="15" font-weight="600" fill="#0b0b0b">逐周(ISO 周):达到 B2 门槛的比例</text>
+<line x1="110" y1="724.0" x2="670" y2="724.0" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="100" y="728.5" font-size="12" fill="#7a7975" text-anchor="end">0</text>
+<line x1="110" y1="676.5" x2="670" y2="676.5" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="100" y="681.0" font-size="12" fill="#7a7975" text-anchor="end">25</text>
+<line x1="110" y1="629.0" x2="670" y2="629.0" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="100" y="633.5" font-size="12" fill="#7a7975" text-anchor="end">50</text>
+<line x1="110" y1="581.5" x2="670" y2="581.5" stroke="#e9e8e3" stroke-width="1" stroke-dasharray="none"/>
+<text x="100" y="586.0" font-size="12" fill="#7a7975" text-anchor="end">75</text>
+<line x1="110" y1="534.0" x2="670" y2="534.0" stroke="#9a9993" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="100" y="538.5" font-size="12" fill="#7a7975" text-anchor="end">100</text>
+<text x="664" y="527.0" font-size="12.5" font-weight="600" fill="#52514e" text-anchor="end">B2 线 · 100</text>
+<text x="110.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W23</text>
+<text x="147.3" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W24</text>
+<text x="184.7" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W25</text>
+<text x="222.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W26</text>
+<text x="259.3" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W27</text>
+<text x="296.7" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W28</text>
+<text x="334.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W29</text>
+<text x="371.3" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W30</text>
+<text x="408.7" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W31</text>
+<text x="446.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W32</text>
+<text x="483.3" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W33</text>
+<text x="520.7" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W34</text>
+<text x="558.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W35</text>
+<text x="595.3" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W36</text>
+<text x="632.7" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W37</text>
+<text x="670.0" y="750" font-size="11.5" fill="#52514e" text-anchor="middle">W38</text>
+<text x="110.0" y="768" font-size="12" font-weight="600" fill="#7a7975" text-anchor="middle">6月</text>
+<text x="296.7" y="768" font-size="12" font-weight="600" fill="#7a7975" text-anchor="middle">7月</text>
+<text x="446.0" y="768" font-size="12" font-weight="600" fill="#7a7975" text-anchor="middle">8月</text>
+<text x="632.7" y="768" font-size="12" font-weight="600" fill="#7a7975" text-anchor="middle">9月</text>
+<path d="M110.0,634.7 L147.3,644.2 L184.7,615.7 L222.0,659.4 L259.3,651.8 L296.7,655.6 L334.0,634.7 L371.3,651.8 L408.7,629.0 L446.0,667.0 L483.3,627.1 L520.7,640.4 L558.0,615.7 L595.3,592.9 L632.7,648.0 L670.0,619.5" fill="none" stroke="#2a78d6" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="634.7" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="634.7" r="3" fill="#2a78d6"/>
+<circle cx="147.3" cy="644.2" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="644.2" r="3" fill="#2a78d6"/>
+<circle cx="184.7" cy="615.7" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="615.7" r="3" fill="#2a78d6"/>
+<circle cx="222.0" cy="659.4" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="659.4" r="3" fill="#2a78d6"/>
+<circle cx="259.3" cy="651.8" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="651.8" r="3" fill="#2a78d6"/>
+<circle cx="296.7" cy="655.6" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="655.6" r="3" fill="#2a78d6"/>
+<circle cx="334.0" cy="634.7" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="634.7" r="3" fill="#2a78d6"/>
+<circle cx="371.3" cy="651.8" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="651.8" r="3" fill="#2a78d6"/>
+<circle cx="408.7" cy="629.0" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="629.0" r="3" fill="#2a78d6"/>
+<circle cx="446.0" cy="667.0" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="667.0" r="3" fill="#2a78d6"/>
+<circle cx="483.3" cy="627.1" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="627.1" r="3" fill="#2a78d6"/>
+<circle cx="520.7" cy="640.4" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="640.4" r="3" fill="#2a78d6"/>
+<circle cx="558.0" cy="615.7" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="615.7" r="3" fill="#2a78d6"/>
+<circle cx="595.3" cy="592.9" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="592.9" r="3" fill="#2a78d6"/>
+<circle cx="632.7" cy="648.0" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="648.0" r="3" fill="#2a78d6"/>
+<circle cx="670.0" cy="619.5" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="619.5" r="3" fill="#2a78d6"/>
+<path d="M110.0,646.1 L147.3,644.2 L184.7,636.6 L222.0,638.5 L259.3,625.2 L296.7,642.3 L334.0,629.0 L371.3,625.2 L408.7,613.8 L446.0,619.5 L483.3,610.0 L520.7,663.2 L558.0,642.3 L595.3,638.5 L632.7,625.2 L670.0,640.4" fill="none" stroke="#eb6834" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="646.1" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="646.1" r="3" fill="#eb6834"/>
+<circle cx="147.3" cy="644.2" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="644.2" r="3" fill="#eb6834"/>
+<circle cx="184.7" cy="636.6" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="636.6" r="3" fill="#eb6834"/>
+<circle cx="222.0" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="638.5" r="3" fill="#eb6834"/>
+<circle cx="259.3" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="625.2" r="3" fill="#eb6834"/>
+<circle cx="296.7" cy="642.3" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="642.3" r="3" fill="#eb6834"/>
+<circle cx="334.0" cy="629.0" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="629.0" r="3" fill="#eb6834"/>
+<circle cx="371.3" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="625.2" r="3" fill="#eb6834"/>
+<circle cx="408.7" cy="613.8" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="613.8" r="3" fill="#eb6834"/>
+<circle cx="446.0" cy="619.5" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="619.5" r="3" fill="#eb6834"/>
+<circle cx="483.3" cy="610.0" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="610.0" r="3" fill="#eb6834"/>
+<circle cx="520.7" cy="663.2" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="663.2" r="3" fill="#eb6834"/>
+<circle cx="558.0" cy="642.3" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="642.3" r="3" fill="#eb6834"/>
+<circle cx="595.3" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="638.5" r="3" fill="#eb6834"/>
+<circle cx="632.7" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="625.2" r="3" fill="#eb6834"/>
+<circle cx="670.0" cy="640.4" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="640.4" r="3" fill="#eb6834"/>
+<path d="M110.0,636.6 L147.3,634.7 L184.7,623.3 L222.0,630.9 L259.3,630.9 L296.7,632.8 L334.0,634.7 L371.3,632.8 L408.7,636.6 L446.0,646.1 L483.3,625.2 L520.7,625.2 L558.0,627.1 L595.3,615.7 L632.7,619.5 L670.0,629.0" fill="none" stroke="#1baf7a" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="636.6" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="636.6" r="3" fill="#1baf7a"/>
+<circle cx="147.3" cy="634.7" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="634.7" r="3" fill="#1baf7a"/>
+<circle cx="184.7" cy="623.3" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="623.3" r="3" fill="#1baf7a"/>
+<circle cx="222.0" cy="630.9" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="630.9" r="3" fill="#1baf7a"/>
+<circle cx="259.3" cy="630.9" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="630.9" r="3" fill="#1baf7a"/>
+<circle cx="296.7" cy="632.8" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="632.8" r="3" fill="#1baf7a"/>
+<circle cx="334.0" cy="634.7" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="634.7" r="3" fill="#1baf7a"/>
+<circle cx="371.3" cy="632.8" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="632.8" r="3" fill="#1baf7a"/>
+<circle cx="408.7" cy="636.6" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="636.6" r="3" fill="#1baf7a"/>
+<circle cx="446.0" cy="646.1" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="646.1" r="3" fill="#1baf7a"/>
+<circle cx="483.3" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="625.2" r="3" fill="#1baf7a"/>
+<circle cx="520.7" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="625.2" r="3" fill="#1baf7a"/>
+<circle cx="558.0" cy="627.1" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="627.1" r="3" fill="#1baf7a"/>
+<circle cx="595.3" cy="615.7" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="615.7" r="3" fill="#1baf7a"/>
+<circle cx="632.7" cy="619.5" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="619.5" r="3" fill="#1baf7a"/>
+<circle cx="670.0" cy="629.0" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="629.0" r="3" fill="#1baf7a"/>
+<path d="M110.0,610.0 L147.3,611.9 L184.7,638.5 L222.0,644.2 L259.3,638.5 L296.7,642.3 L334.0,657.5 L371.3,627.1 L408.7,657.5 L446.0,661.3 L483.3,651.8 L520.7,619.5 L558.0,572.0 L595.3,598.6 L632.7,564.4 L670.0,594.8" fill="none" stroke="#eda100" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="610.0" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="610.0" r="3" fill="#eda100"/>
+<circle cx="147.3" cy="611.9" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="611.9" r="3" fill="#eda100"/>
+<circle cx="184.7" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="638.5" r="3" fill="#eda100"/>
+<circle cx="222.0" cy="644.2" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="644.2" r="3" fill="#eda100"/>
+<circle cx="259.3" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="638.5" r="3" fill="#eda100"/>
+<circle cx="296.7" cy="642.3" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="642.3" r="3" fill="#eda100"/>
+<circle cx="334.0" cy="657.5" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="657.5" r="3" fill="#eda100"/>
+<circle cx="371.3" cy="627.1" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="627.1" r="3" fill="#eda100"/>
+<circle cx="408.7" cy="657.5" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="657.5" r="3" fill="#eda100"/>
+<circle cx="446.0" cy="661.3" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="661.3" r="3" fill="#eda100"/>
+<circle cx="483.3" cy="651.8" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="651.8" r="3" fill="#eda100"/>
+<circle cx="520.7" cy="619.5" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="619.5" r="3" fill="#eda100"/>
+<circle cx="558.0" cy="572.0" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="572.0" r="3" fill="#eda100"/>
+<circle cx="595.3" cy="598.6" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="598.6" r="3" fill="#eda100"/>
+<circle cx="632.7" cy="564.4" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="564.4" r="3" fill="#eda100"/>
+<circle cx="670.0" cy="594.8" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="594.8" r="3" fill="#eda100"/>
+<path d="M110.0,596.7 L147.3,619.5 L184.7,640.4 L222.0,623.3 L259.3,646.1 L296.7,640.4 L334.0,627.1 L371.3,598.6 L408.7,613.8 L446.0,648.0 L483.3,632.8 L520.7,661.3 L558.0,668.9 L595.3,674.6 L632.7,661.3 L670.0,661.3" fill="none" stroke="#4a3aa7" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="596.7" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="596.7" r="3" fill="#4a3aa7"/>
+<circle cx="147.3" cy="619.5" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="619.5" r="3" fill="#4a3aa7"/>
+<circle cx="184.7" cy="640.4" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="640.4" r="3" fill="#4a3aa7"/>
+<circle cx="222.0" cy="623.3" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="623.3" r="3" fill="#4a3aa7"/>
+<circle cx="259.3" cy="646.1" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="646.1" r="3" fill="#4a3aa7"/>
+<circle cx="296.7" cy="640.4" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="640.4" r="3" fill="#4a3aa7"/>
+<circle cx="334.0" cy="627.1" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="627.1" r="3" fill="#4a3aa7"/>
+<circle cx="371.3" cy="598.6" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="598.6" r="3" fill="#4a3aa7"/>
+<circle cx="408.7" cy="613.8" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="613.8" r="3" fill="#4a3aa7"/>
+<circle cx="446.0" cy="648.0" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="648.0" r="3" fill="#4a3aa7"/>
+<circle cx="483.3" cy="632.8" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="632.8" r="3" fill="#4a3aa7"/>
+<circle cx="520.7" cy="661.3" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="661.3" r="3" fill="#4a3aa7"/>
+<circle cx="558.0" cy="668.9" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="668.9" r="3" fill="#4a3aa7"/>
+<circle cx="595.3" cy="674.6" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="674.6" r="3" fill="#4a3aa7"/>
+<circle cx="632.7" cy="661.3" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="661.3" r="3" fill="#4a3aa7"/>
+<circle cx="670.0" cy="661.3" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="661.3" r="3" fill="#4a3aa7"/>
+<path d="M110.0,625.2 L147.3,630.9 L184.7,630.9 L222.0,638.5 L259.3,638.5 L296.7,642.3 L334.0,636.6 L371.3,627.1 L408.7,630.9 L446.0,648.0 L483.3,629.0 L520.7,642.3 L558.0,625.2 L595.3,623.3 L632.7,623.3 L670.0,629.0" fill="none" stroke="#52514e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="110.0" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="110.0" cy="625.2" r="3" fill="#52514e"/>
+<circle cx="147.3" cy="630.9" r="5" fill="#fcfcfb"/><circle cx="147.3" cy="630.9" r="3" fill="#52514e"/>
+<circle cx="184.7" cy="630.9" r="5" fill="#fcfcfb"/><circle cx="184.7" cy="630.9" r="3" fill="#52514e"/>
+<circle cx="222.0" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="222.0" cy="638.5" r="3" fill="#52514e"/>
+<circle cx="259.3" cy="638.5" r="5" fill="#fcfcfb"/><circle cx="259.3" cy="638.5" r="3" fill="#52514e"/>
+<circle cx="296.7" cy="642.3" r="5" fill="#fcfcfb"/><circle cx="296.7" cy="642.3" r="3" fill="#52514e"/>
+<circle cx="334.0" cy="636.6" r="5" fill="#fcfcfb"/><circle cx="334.0" cy="636.6" r="3" fill="#52514e"/>
+<circle cx="371.3" cy="627.1" r="5" fill="#fcfcfb"/><circle cx="371.3" cy="627.1" r="3" fill="#52514e"/>
+<circle cx="408.7" cy="630.9" r="5" fill="#fcfcfb"/><circle cx="408.7" cy="630.9" r="3" fill="#52514e"/>
+<circle cx="446.0" cy="648.0" r="5" fill="#fcfcfb"/><circle cx="446.0" cy="648.0" r="3" fill="#52514e"/>
+<circle cx="483.3" cy="629.0" r="5" fill="#fcfcfb"/><circle cx="483.3" cy="629.0" r="3" fill="#52514e"/>
+<circle cx="520.7" cy="642.3" r="5" fill="#fcfcfb"/><circle cx="520.7" cy="642.3" r="3" fill="#52514e"/>
+<circle cx="558.0" cy="625.2" r="5" fill="#fcfcfb"/><circle cx="558.0" cy="625.2" r="3" fill="#52514e"/>
+<circle cx="595.3" cy="623.3" r="5" fill="#fcfcfb"/><circle cx="595.3" cy="623.3" r="3" fill="#52514e"/>
+<circle cx="632.7" cy="623.3" r="5" fill="#fcfcfb"/><circle cx="632.7" cy="623.3" r="3" fill="#52514e"/>
+<circle cx="670.0" cy="629.0" r="5" fill="#fcfcfb"/><circle cx="670.0" cy="629.0" r="3" fill="#52514e"/>
+<rect x="682" y="587.8" width="4" height="14" rx="2" fill="#eda100"/>
+<text x="692" y="599.3" font-size="13" fill="#0b0b0b"><tspan font-weight="600">互动</tspan><tspan fill="#52514e" dx="6">68%</tspan></text>
+<rect x="682" y="612.5" width="4" height="14" rx="2" fill="#2a78d6"/>
+<text x="692" y="624.0" font-size="13" fill="#0b0b0b"><tspan font-weight="600">语言范围</tspan><tspan fill="#52514e" dx="6">55%</tspan></text>
+<rect x="682" y="629.5" width="4" height="14" rx="2" fill="#1baf7a"/>
+<text x="692" y="641.0" font-size="13" fill="#0b0b0b"><tspan font-weight="600">流利度</tspan><tspan fill="#52514e" dx="6">50%</tspan></text>
+<rect x="682" y="646.5" width="4" height="14" rx="2" fill="#52514e"/>
+<text x="692" y="658.0" font-size="13" fill="#0b0b0b"><tspan font-weight="600">总体</tspan><tspan fill="#52514e" dx="6">50%</tspan></text>
+<rect x="682" y="663.5" width="4" height="14" rx="2" fill="#eb6834"/>
+<text x="692" y="675.0" font-size="13" fill="#0b0b0b"><tspan font-weight="600">准确性</tspan><tspan fill="#52514e" dx="6">44%</tspan></text>
+<rect x="682" y="680.5" width="4" height="14" rx="2" fill="#4a3aa7"/>
+<text x="692" y="692.0" font-size="13" fill="#0b0b0b"><tspan font-weight="600">连贯</tspan><tspan fill="#52514e" dx="6">33%</tspan></text>
+<text x="60" y="822" font-size="11.5" fill="#9a9993">锚点:CEFR Companion Volume (2020), Qualitative features of spoken language · 门槛:scripts/speech_trends.py · 统计从 2026-06 起(5 月仅 4 个上课日,不计) · 2026-09-21 体检</text>
+</svg>
